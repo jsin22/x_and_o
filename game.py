@@ -16,8 +16,7 @@ def playGame():
 
     return rc
 
-
+# main
 r = playGame()
-
 while r:
     r = playGame()
